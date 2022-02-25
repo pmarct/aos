@@ -2,5 +2,6 @@
 "name": "Army of Spies",
 "description": "Official Army of Spies Stake Pool",
 "ticker": "AOS",
-"homepage": "armyofspies.io"
+"homepage": "armyofspies.io",
+"extended": "https://tinyurl.com/aos-pool-extended"
 }
